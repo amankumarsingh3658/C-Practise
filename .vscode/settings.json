@@ -11,6 +11,7 @@
         "limits": "c",
         "locale": "c",
         "ratio": "c",
-        "tuple": "c"
+        "tuple": "c",
+        "stdio.h": "c"
     }
 }
