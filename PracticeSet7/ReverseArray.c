@@ -8,7 +8,6 @@ void reverse(int *arr , int n){
         arr[i] = arr[n-i-1];
         arr[n-i-1] = temp;
     }
-    
 }
 int main(){
     int arr[] = {1,2,3,4,5,6,7};

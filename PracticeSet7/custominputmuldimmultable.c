@@ -27,7 +27,7 @@ int main()
         printf("Enter the Numbers for which you want a Table : ");
         scanf("%d", &elements[i]);
     }
-    int arr[n][10];
-    printArray(n, value, arr, elements );
+    int arr[n][value];
+    printArray(n, value, arr, elements);
     return 0;
 }

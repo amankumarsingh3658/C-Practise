@@ -1,1 +1,0 @@
-printf("%d X %d = %d\n", elements[i], j + 1, arr[i][j]);
